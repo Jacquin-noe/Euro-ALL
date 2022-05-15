@@ -1,0 +1,73 @@
+
+body {
+	background-color: #44423F ;
+	font-family: "Gill Sans", sans-serif;
+}
+	
+	
+/* SOMMAIRE */
+	.bienvenue {
+	  position: relative;
+	  text-align: center;
+	  top : 35%;
+	  padding : 2%;
+	  border: 5px ;
+	  border-color: #E7BC6D;
+	  color: #E7BC6D;
+	  font-size: 43px;
+}
+	.intro {
+		position: relative;
+		top: 45%;
+		text-align: center;
+		color: #E7BC6D;
+		font-size: 23px;
+	}
+	
+	
+
+
+
+/* NAVBAR */
+	li {
+	  display: inline;
+	  float: left;
+}
+
+	a {
+		padding-right: 25px;
+		color: #44423F;
+		display: block;
+		right: 0%;
+		text-decoration: none;
+		font-size: 19px;
+	}
+
+ li a:hover {
+  color: #FFFFFF;
+}
+ 
+ 
+	.navbar {
+		position:fixed ;
+		top: 1%;
+		left: 0%;
+		padding-top: 0%;
+		padding-bottom: 1%;
+		/* border-style: outset; */
+		background-color: #E7BC6D;
+		overflow: hidden;
+		width: 100%;
+	}
+	
+
+/* EXPOSITION */
+
+	h1 {
+		position: relative;
+		top: 15%;
+		text-align: center;
+		color: #E7BC6D;
+		font-size: 30px;
+		
+	}
